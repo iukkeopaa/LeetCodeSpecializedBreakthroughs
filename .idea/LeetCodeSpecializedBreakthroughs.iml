@@ -5,6 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/ArrayBasics" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/BinarySearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HashAlgorithm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HashMap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Recursive" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SkipList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Stack" isTestSource="false" />
